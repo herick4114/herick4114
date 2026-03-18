@@ -1,0 +1,8 @@
+Olá!
+
+Meu nome é Herick
+
+Curso: Desenvolvimento de Sistemas
+Escola: Attilia Prado Margarido
+
+Este é meu primeiro repositório no GitHub.
